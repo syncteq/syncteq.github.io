@@ -1,6 +1,6 @@
 # Welcome to Syncteq Development
-We are commited to build useful Android Apps to ease your daily works. Check out our
-[Android Apps by Syncteq Development on Google Play](https://play.google.com/store/apps/dev?id=7422191688104838951)
+We are commited to build useful Android Apps to ease your daily works. Check out the 
+[Android Apps developed by Syncteq Development on Google Play](https://play.google.com/store/apps/dev?id=7422191688104838951)
 
 1. PCMY - Property Calculator Malaysia [Free download](https://play.google.com/store/apps/details?id=syncteq.propertycalculatormalaysia)
 2. PropCalc - Property Calculators [Free download](https://play.google.com/store/apps/details?id=syncteq.propertycalculators)
