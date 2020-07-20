@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to Syncteq Development
 
-You can use the [editor on GitHub](https://github.com/syncteq/syncteq.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We are commited to build useful Android Apps to ease your daily works. Check out our
+[Android Apps by Syncteq Development on Google Play](https://play.google.com/store/apps/dev?id=7422191688104838951)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Our slogan
 
-### Markdown
+"Looks simple? Give it a try first as we built with heart!"
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Our projects:
+**1. PCMY - Property Calculator Malaysia** [Free download](https://play.google.com/store/apps/details?id=syncteq.propertycalculatormalaysia)
+**2. PropCalc - Property Calculators** [Free download](https://play.google.com/store/apps/details?id=syncteq.propertycalculators)
+**3. MY Income Tax Calculator 2020 - Malaysia** [Free download](https://play.google.com/store/apps/details?id=syncteq.myincometaxcalculator)
 
-```markdown
-Syntax highlighted code block
+### Contact
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/syncteq/syncteq.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have any feedback or suggestion, you can [contact support](https://syncteq@gmail.com) and we’ll help you asap. Thanks 
