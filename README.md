@@ -1,4 +1,4 @@
-# Welcome to SyncTeq Development
+# Welcome to Syncteq Development
 We are commited to build useful Android Apps or tools to ease your daily works. Check out our FREE
 [Android Apps on Google Play](https://play.google.com/store/apps/dev?id=7422191688104838951) or click below to download:
 
