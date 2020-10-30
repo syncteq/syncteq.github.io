@@ -11,7 +11,5 @@ We are commited to build useful Android Apps or tools to ease your daily works. 
 "Looks simple? Give it a try first as we build with heart! Thank you"
 
 ## Contact
-If you have any feedback or suggestion, you can contact us at syncteq@gmail.com and we’ll help you asap. Thanks
-
-## Links
-[@SyncteqDevelopment](https://linktr.ee/SyncteqDevelopment)
+If you have any feedback or suggestion, you can contact us at syncteq@gmail.com and we’ll help you asap. Find us 
+[here](https://linktr.ee/SyncteqDevelopment). Thank you
