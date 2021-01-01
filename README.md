@@ -7,8 +7,8 @@ We are commited to build useful Android Apps or tools to ease your daily works. 
 3. [MY Income Tax Calculator 2020 - Malaysia](https://play.google.com/store/apps/details?id=syncteq.myincometaxcalculator)
 
 
-## Our slogan
-"Looks simple? Give it a try first as we build with heart! Thank you"
+## About
+It may look simple, that's because we've simplified it with heart! Kindly give it a try and review us if it's good. Thank you
 
 ## Contact
 If you have any feedback or suggestion, you can contact us at syncteq@gmail.com and we’ll help you asap. Find us 
