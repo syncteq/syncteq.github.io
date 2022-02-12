@@ -3,9 +3,9 @@ We are commited to build useful Android Apps or tools to ease your daily works. 
 [Android Apps on Google Play](https://play.google.com/store/apps/dev?id=7422191688104838951) or click below to download. Thank you
 
 1. [PCMY - Property Calculator Malaysia](https://play.google.com/store/apps/details?id=syncteq.propertycalculatormalaysia)
-2. [Property Calculators - Free](https://play.google.com/store/apps/details?id=syncteq.propertycalculators)
-3. [MY Income Tax Calculator 2020 - 2021](https://play.google.com/store/apps/details?id=syncteq.myincometaxcalculator)
-4. [Home Loan EMI Calculators - Free & Lite](https://play.google.com/store/apps/details?id=syncteq.homeloanemicalculators)
+2. [Property Calculators](https://play.google.com/store/apps/details?id=syncteq.propertycalculators)
+3. [Malaysia Income Tax Calculator](https://play.google.com/store/apps/details?id=syncteq.myincometaxcalculator)
+4. [Home Loan EMI Calculators](https://play.google.com/store/apps/details?id=syncteq.homeloanemicalculators)
 
 
 ## About
