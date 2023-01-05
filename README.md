@@ -4,7 +4,7 @@ We are commited to build useful Android tools to ease your daily works. Check ou
 
 1. [PCMY - Property Calculator Malaysia](https://play.google.com/store/apps/details?id=syncteq.propertycalculatormalaysia)
 2. [Property Calculators](https://play.google.com/store/apps/details?id=syncteq.propertycalculators)
-3. [Malaysia Income Tax Calculator](https://play.google.com/store/apps/details?id=syncteq.myincometaxcalculator)
+3. [MY Income Tax Calculator](https://play.google.com/store/apps/details?id=syncteq.myincometaxcalculator)
 4. [Home Loan Calculators](https://play.google.com/store/apps/details?id=syncteq.homeloanemicalculators)
 
 
